@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c07778f8-afe0-42e8-ad07-2f8c4f565f92" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pokemon Arena Sat Arora" />
+  </component>
+  <component name="ProjectId" id="1TCjWYpDPMU0NSPAgivhs2J5pxB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Advanced Data Structures" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\satcl\IdeaProjects\Pokemon Arena Sat Arora" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PokemonArena">
+    <configuration name="File1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File1" />
+      <module name="Pokemon Arena Sat Arora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File2" />
+      <module name="Pokemon Arena Sat Arora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonArena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PokemonArena" />
+      <module name="Pokemon Arena Sat Arora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pokemon_arena2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pokemon_arena2" />
+      <module name="Pokemon Arena Sat Arora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pokemon_arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pokemon_arena" />
+      <module name="Pokemon Arena Sat Arora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PokemonArena" />
+        <item itemvalue="Application.File2" />
+        <item itemvalue="Application.Pokemon_arena2" />
+        <item itemvalue="Application.pokemon_arena" />
+        <item itemvalue="Application.File1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c07778f8-afe0-42e8-ad07-2f8c4f565f92" name="Default Changelist" comment="" />
+      <created>1572971003792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572971003792</updated>
+      <workItem from="1572971008755" duration="716000" />
+      <workItem from="1573055798090" duration="2701000" />
+      <workItem from="1573228571997" duration="2050000" />
+      <workItem from="1573355178776" duration="2509000" />
+      <workItem from="1573399643538" duration="3849000" />
+      <workItem from="1573426131986" duration="1811000" />
+      <workItem from="1573489705410" duration="123000" />
+      <workItem from="1573574669777" duration="7315000" />
+      <workItem from="1573660419707" duration="2197000" />
+      <workItem from="1573681692215" duration="106000" />
+      <workItem from="1573747497128" duration="2587000" />
+      <workItem from="1573779299348" duration="4049000" />
+      <workItem from="1573836585055" duration="12369000" />
+      <workItem from="1573916931374" duration="2713000" />
+      <workItem from="1573939342982" duration="4178000" />
+      <workItem from="1574092570486" duration="2052000" />
+      <workItem from="1574178116058" duration="220000" />
+      <workItem from="1574178788451" duration="2000000" />
+      <workItem from="1574351896825" duration="1279000" />
+      <workItem from="1574379423668" duration="879000" />
+      <workItem from="1574438411282" duration="1174000" />
+      <workItem from="1574738960200" duration="601000" />
+      <workItem from="1574870163160" duration="2942000" />
+      <workItem from="1575042848022" duration="2171000" />
+      <workItem from="1575045192235" duration="1957000" />
+      <workItem from="1575084309593" duration="2203000" />
+      <workItem from="1575129780125" duration="2422000" />
+      <workItem from="1575167510117" duration="5142000" />
+      <workItem from="1575214374576" duration="7432000" />
+      <workItem from="1575246884123" duration="2328000" />
+      <workItem from="1575302449582" duration="860000" />
+      <workItem from="1575325549522" duration="4595000" />
+      <workItem from="1575400878611" duration="3821000" />
+      <workItem from="1575489387267" duration="549000" />
+      <workItem from="1575490085451" duration="23830000" />
+      <workItem from="1575542405537" duration="8636000" />
+      <workItem from="1575552833201" duration="4781000" />
+      <workItem from="1575561273673" duration="1928000" />
+      <workItem from="1575581147550" duration="383000" />
+      <workItem from="1575994046953" duration="7000" />
+      <workItem from="1584634583876" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
